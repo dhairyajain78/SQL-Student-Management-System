@@ -140,6 +140,6 @@ This project helped in understanding:
 
 ## 👨‍💻 Author
 
-**Akshita Jain**
+**Dhairya Jain**
 
 GitHub: https://github.com/dhairyajain78
